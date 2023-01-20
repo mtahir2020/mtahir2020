@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A pharmacist turned software engineer, from pharmacokinetics to function calls 👨🏻‍💻</h3>
 
+- 👨🏻‍💻 Javascript is my favourite programming language
+
+- 🧫 2022 Le Wagon bootcamp graduate
+
 - 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) [GimmeGolf](https://gimmegolf.herokuapp.com/courses)
 
 - 🌱 I’m currently learning **React**
