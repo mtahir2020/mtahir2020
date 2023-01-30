@@ -5,7 +5,7 @@
 
 - 🧫 2022 Le Wagon bootcamp graduate
 
-- 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) [GimmeGolf](https://gimmegolf.herokuapp.com/courses)
+- 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) [GimmeGolf](https://gimmegolf.fun)
 
 - 🌱 I’m currently learning **React**
 
