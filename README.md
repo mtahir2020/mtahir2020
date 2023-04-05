@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A pharmacist turned software engineer, from pharmacokinetics to function calls 👨🏻‍💻</h3>
 
-- 👨🏻‍💻 Javascript is my favourite programming language
-- Javascript, React, Ruby, Ruby-onRails, HTML, CSS
+- 👨🏻‍💻 Javascript, React, Ruby, Ruby-on-Rails, HTML, CSS
 
 - 🧫 2022 Le Wagon bootcamp graduate
 
 - 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) [GimmeGolf](https://gimmegolf.fun)
-
-- 🌱 I’m currently learning **React**
 
 - 👟 Sneaker marketplace, Rails Airbnb clone (group project) [SeekASneaker](https://github.com/mtahir2020/SeekASneaker)
 
