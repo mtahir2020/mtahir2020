@@ -2,6 +2,7 @@
 <h3 align="center">A pharmacist turned software engineer, from pharmacokinetics to function calls 👨🏻‍💻</h3>
 
 - 👨🏻‍💻 Javascript is my favourite programming language
+- Javascript, React, Ruby, Ruby-onRails, HTML, CSS
 
 - 🧫 2022 Le Wagon bootcamp graduate
 
