@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A pharmacist turned software engineer, from pharmacokinetics to function calls 👨🏻‍💻</h3>
 
-- 👨🏻‍💻 Javascript, React, Ruby, Ruby-on-Rails, HTML, CSS
+- 👨🏻‍💻 Javascript, React, Rails, HTML, CSS
 
 - 🧫 2022 Le Wagon bootcamp graduate
+
+- 📝 (N)evernote - A web-based Evernote clone made in React [Nevernote](https://comfy-alfajores-e5bd7d.netlify.app/)
 
 - 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) [GimmeGolf](https://gimmegolf.fun)
 
