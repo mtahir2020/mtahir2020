@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A pharmacist turned software engineer, from pharmacokinetics to function calls 👨🏻‍💻</h3>
+<h3 align="center">A pharmacist turned front-end engineer, from pharmacokinetics to function calls 👨🏻‍💻</h3>
 
 - 👨🏻‍💻 Javascript, React, Rails, HTML, CSS
 
